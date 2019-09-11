@@ -1,0 +1,18 @@
+
+h1 {
+    font-family: "Andale Mono";
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+
+h2 {
+    font-family: "Andale Mono";
+    color: grey;
+    text-align: center;
+    font-size: large;
+}
+
+.highlightBlack {
+    background-color: black;
+}
